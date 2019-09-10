@@ -1,0 +1,13 @@
+
+Name: Orlando Jimenez
+Project: Homework 1
+
+1. How often do you get a solution in fewer than 20 guesses? Does this change depending on the theory you test(1,2,3)?
+
+   I only got solutions in fewer than 20 guesses 2 times. The theory that found the solution in less than 20 guesses was theory 3.
+   I dont think it changes that much based on the theory, and is mostly based on luck. 
+
+2. What is good or bad about this strategy?
+
+   The bad thing about the RandomClue strategy is that it does not eliminate the incorrect murderers, locations, or weapons when it checks 
+   with Assistant Jack. That means that it will use the incorrect murderers, locations, and weapons multiple times. 
